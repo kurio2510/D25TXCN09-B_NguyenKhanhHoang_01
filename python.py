@@ -253,5 +253,4 @@ def menu():
             break
         else:
             print("Lựa chọn không hợp lệ!")
-
 menu()
